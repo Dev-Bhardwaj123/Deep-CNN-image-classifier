@@ -1,4 +1,4 @@
-# Project-4
+# Deep CNN Image Classifier
 Deep CNN image classifier
 -->Project Overview
 We are building here a deep convolutional neural network Image classifier. What it does is basically we develop a model that takes in images of happy and sad people and  trained on a given dataset, It predicts whether the photo given by the user is a happy photo or a sad photo. We can also expand it's use case to express emotions of anger, fear, surprise and disgust. It analyzes the image given by user and generates a value on a certain index and compares the value if it falls below a threhold it tells it sad/happy and vice versa.
